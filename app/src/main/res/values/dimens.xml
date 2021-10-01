@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sixth_screen_button_height">70dp</dimen>
+    <dimen name="screen_header_text_size">28sp</dimen>
+</resources>
